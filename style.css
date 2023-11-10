@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* for book images. if we are gonna add images aside from books, add class = book and change below img->book */
+img {
+    height: 10rem;
+    width: 8.5rem;
+
+    padding: 0.5rem;
+}
+
+
+.Shelf {
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    margin: 3rem;
+}
+
+.Arrow {}
+
+
+.Search-Bar {
+    width: 80%;
+    height: 2.5rem;
+
+    border: 0.4rem;
+    border-style: solid;
+    border-color: rgb(7, 86, 155, 0.2);
+    border-radius: 0.5rem;
+
+    margin-left: 10%;
+    margin-right: 0.5%;
+
+    font-size: 1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#search-img {
+    width: 2rem;
+    height: 3rem;
+}
