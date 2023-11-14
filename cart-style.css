@@ -1,0 +1,11 @@
+li {
+	list-style-type: none;
+}
+
+#cart-item {
+	border-bottom: 1px solid #888;
+}
+
+#item-quantity {
+	width: 2em;
+}
